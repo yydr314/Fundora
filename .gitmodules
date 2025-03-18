@@ -1,0 +1,9 @@
+[submodule "contract"]
+	path = contract
+	url = https://github.com/yydr314/bank-contract.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/yydr314/bank-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/yydr314/bank-frontend.git
